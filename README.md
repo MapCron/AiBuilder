@@ -1,2 +1,2 @@
 # AiFeat
-AI Feature Builder - The feat to stand on while building AI projects
+AI Feature Builder - The feet to stand on while building AI projects
